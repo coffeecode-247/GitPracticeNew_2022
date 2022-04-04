@@ -1,4 +1,9 @@
-public static void main(String[] args){
+package tests;
 
-    System.out.println("test");
+class pullTest {
+
+	public static void main(String[] args) {
+
+		System.out.println("test");
+	}
 }
